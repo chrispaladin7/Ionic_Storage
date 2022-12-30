@@ -1,0 +1,7 @@
+{
+  "name": "assignmentStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
