@@ -1,6 +1,11 @@
 # Ionic_Storage
 Storage data in IndexedDB
 
+Included in this Ionic React Project
+- Adding data to IndexedDB
+- Ionicons
+
+
 ## Prerequisites
 Before you get started, make sure you have the following tools installed on your machine:
 
